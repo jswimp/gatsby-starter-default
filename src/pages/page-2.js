@@ -9,8 +9,7 @@ const SecondPage = () => (
     
   <p><Link to="/">Go back to the homepage</Link></p>
  
-  </div>
-  <form name="contact" netlify>
+  <form name="new music fridays - subscribe" womp>
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
@@ -21,7 +20,6 @@ const SecondPage = () => (
     <button type="submit">Send</button>
   </p>
 </form>
-  <div>
   
 )
 
